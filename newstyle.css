@@ -1,0 +1,4 @@
+        h1 {text-align: center; color: orangered; font-family: verdana; background-color: darkblue; margin: 20px;}
+        h2 {text-align: left; color: orangered; font-family: verdana; background-color: lightblue; margin: 25px;}
+        table, th, td {text-align: center; background-color: ghostwhite; border: 1px solid black;}
+        p {text-align: justify; margin-left: 30px; margin-right: 30px; color: black; font-family: arial;}
